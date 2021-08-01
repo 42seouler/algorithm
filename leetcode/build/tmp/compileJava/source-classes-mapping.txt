@@ -1,4 +1,8 @@
-twosum/TwoSum.java
+problem/TwoSum.java
  twosum.TwoSum
+problem/MaxProfit.java
+ problem.MaxProfit
 Solution.java
  Solution
+problem/IsAlienSorted.java
+ problem.IsAlienSorted
